@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1527542446 source:/media/bob/D202FB4902FB3159/backup 09-05-2017/Estudando algoritimo em C/Periodo_3/Projetos/OrdenarPorIdade/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1525092504 /media/bob/D202FB4902FB3159/backup 09-05-2017/Estudando algoritimo em C/Periodo_3/Projetos/OrdenarPorIdade/ListaSequencial.h
+
+1527542789 source:/media/bob/D202FB4902FB3159/backup 09-05-2017/Estudando algoritimo em C/Periodo_3/Projetos/OrdenarPorIdade/ListaSequencial.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaSequencial.h"
+
